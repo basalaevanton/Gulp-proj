@@ -1,5 +1,5 @@
 # Gulp-proj
-Gulp for start
+Gulp for start your project
 
 Для старта проекта в терминале:
 
